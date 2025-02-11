@@ -16,7 +16,12 @@
 )
 
 (defalias
+<<<<<<< HEAD:thinkpad-win.kbd
   SYM (layer-toggle symbols))
+=======
+  SYM (layer-toggle symbols)
+)
+>>>>>>> master:thinkpad.kbd
 
 (defalias
   NAV (tap-hold-next 400 ; (layer-toggle navigation)))
